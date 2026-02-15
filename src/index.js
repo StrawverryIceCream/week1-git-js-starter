@@ -1,6 +1,6 @@
 if (!title || !content) {
   throw new Error('Title and content are required');
-}
+} //Hotfix branch - validation improvement
 
 /**
  * Week 1 - Main Entry Point
