@@ -1,6 +1,7 @@
-// Branch A
+if (!title || !content) {
+  throw new Error('Title and content are required');
+}
 
-// Branch B
 /**
  * Week 1 - Main Entry Point
  * This file demonstrates how to import and use the utility functions
