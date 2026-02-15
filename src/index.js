@@ -1,6 +1,3 @@
-if (!title || !content) {
-  throw new Error('Title and content are required');
-}
 
 /**
  * Week 1 - Main Entry Point
